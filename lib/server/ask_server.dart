@@ -3,7 +3,7 @@ import 'dart:async';
 
 Future<String> sendToServer({required String cmd}) async {
   // Configuration
-  String serverIp = "192.168.43.40";
+  String serverIp = "<YOUR_IP_ADDRESS>";
   int port = 8080;
 
   try {
