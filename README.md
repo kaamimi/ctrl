@@ -1,16 +1,56 @@
 # ctrl
 
-A new Flutter project.
+**Control your PC from your Phone**
+
+ctrl is a Flutter application that allows you to send commands from your phone to your PC.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+  * A Flutter development environment
+  * Any version of Python above 3.7.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1.  Clone the repository:
+
+<!-- end list -->
+
+```bash
+git clone https://github.com/kaamimi/ctrl.git
+```
+
+2.  Navigate to the project directory:
+
+<!-- end list -->
+
+```bash
+cd ctrl
+```
+
+3.  Install the dependencies:
+
+<!-- end list -->
+
+```bash
+flutter pub get
+```
+
+## Running the app
+
+1.  Connect your phone to your development machine or start up an Android Virtual Device.
+
+2.  Run the app:
+
+<!-- end list -->
+
+```bash
+flutter run
+```
+
+This will launch the app on your device.
+
+## Usage
+
+The ctrl app is currently under development. However, the general idea is that you will be able to use the app to create custom commands to send to your PC. The PC will then receive the commands and execute them accordingly.
