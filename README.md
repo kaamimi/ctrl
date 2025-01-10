@@ -53,4 +53,6 @@ This will launch the app on your device.
 
 ## Usage
 
-The ctrl app is currently under development. However, the general idea is that you will be able to use the app to create custom commands to send to your PC. The PC will then receive the commands and execute them accordingly.
+1. Each command on the app is represented as an 'action' and such actions can be easily created by tapping the '+' on the main screen.
+2. Start the Python server on the desired PC.
+3. Tap on the action tile to execute it on the desired PC.
