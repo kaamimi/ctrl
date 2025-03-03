@@ -8,7 +8,7 @@ ctrl is a Flutter application that allows you to send commands from your phone t
 
 ### Prerequisites
 
-  * A Flutter development environment
+  * A Flutter (>= 3.24.4) development environment
   * Any version of Python above 3.7.
 
 ### Installation
