@@ -4,6 +4,8 @@
 
 ctrl is a Flutter application that allows you to send commands from your phone to your PC.
 
+<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/9243af58-38dd-4435-8ce6-e243964a1503" />
+
 ## Getting Started
 
 ### Prerequisites
